@@ -1,0 +1,19 @@
+*{
+    margin: 6%;
+    padding: 0;
+    background-color: blanchedalmond;
+}
+.cont0{
+    display: flex;
+    width: 80%;
+
+}
+.cont1{
+    width: 30%;
+}
+.cont2{
+    width:30%;
+}
+img{
+    width: 100%;
+}
